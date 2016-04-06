@@ -13,4 +13,4 @@ Run faster as you can.
 ##Develop by:
 [Rafa Leyva Ruiz] (https://github.com/rafaelleru)
 
-(Sergio Rodriguez Marin) [https://github.com/pavocejudo]
+[Sergio Rodriguez Marin] (https://github.com/pavocejudo)
